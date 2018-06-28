@@ -1,0 +1,50 @@
+/*
+ * Max!-framework v0.01
+ * Copyright 2018, Asaba William
+ * Copyright 2018, OceanCode
+ * License: MIT
+*/
+
+// fonts 
+@import 'fonts/font.scss';
+
+// colors
+@import 'colors/color';
+
+// base
+ @import 'base/functions';
+ @import 'base/mixins';
+ @import 'base/placeholder';
+ @import 'base/transitions';
+ @import 'base/variables';
+ 
+// framework
+ @import 'framework/global';
+ @import 'framework/layout';
+
+// components 
+ @import 'components/alert';
+ @import 'components/badges';
+ @import 'components/button';
+ @import 'components/cards';
+ @import 'components/carousel';
+ @import 'components/collapse';
+ @import 'components/custom-forms';
+ @import 'components/dropdown';
+ @import 'components/form';
+ @import 'components/grid';
+ @import 'components/img';
+ @import 'components/input-group';
+ @import 'components/jumbotron';
+ @import 'components/list-group';
+ @import 'components/loading';
+ @import 'components/model';
+ @import 'components/nav';
+ @import 'components/navbar';
+ @import 'components/pagination';
+ @import 'components/popup';
+ @import 'components/progress';
+ @import 'components/sidebar';
+ @import 'components/slider';
+ @import 'components/tables';
+ @import 'components/tooltip';
