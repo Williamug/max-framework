@@ -1,8 +1,8 @@
-/*
+/*!
  * Max!-framework v0.01
  * Copyright 2018, Asaba William
  * Copyright 2018, OceanCode
- * License: MIT
+ * License: MIT (https://github/williamug/max-framework/master/LICENSE)
 */
 
 // fonts 
@@ -21,6 +21,8 @@
 // framework
  @import 'framework/global';
  @import 'framework/layout';
+
+ // normalize css
 
 // components 
  @import 'components/alert';
